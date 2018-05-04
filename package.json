@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Innograph provides a graphQL powered layer for sharing and reusing vertical schemas (like social, tourism, productiviy, commerce etc...) ",
   "main": "./dist/index.js",
-  "repository": "git@github.com:linnovate/innograph.git",
   "author": "Lior Kesos <lior@linnovate.net>",
   "license": "MIT",
   "scripts": {
